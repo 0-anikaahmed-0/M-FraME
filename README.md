@@ -5,7 +5,7 @@
 <p align="center">
   <img src="mframe_image.svg" alt="M-FraME overview: 100 queries, 4 topics, 6 framings, 4 languages" width="900">
 </p>
----
+
 
 ## Overview
 
