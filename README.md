@@ -1,6 +1,6 @@
-# M-FraME: **M**ultilingual **Fra**med **M**edical **E**valuation
+# M-FraME: Multilingual Framed Medical Evaluation
 
-**M-FraME** (Multilingual Framed Medical Evaluation) is a controlled evaluation suite for studying how *prompt framing* and *medical topic* affect unsafe medical compliance in large language models, across four languages: English, Bangla, Hindi, and Urdu.
+**M-FraME** (**M**ultilingual **Fra**med **M**edical **E**valuation) is a controlled evaluation suite for studying how *prompt framing* and *medical topic* affect unsafe medical compliance in large language models, across four languages: English, Bangla, Hindi, and Urdu.
 
 <p align="center">
   <img src="mframe_image.svg" alt="M-FraME overview: 100 queries, 4 topics, 6 framings, 4 languages" width="900">
