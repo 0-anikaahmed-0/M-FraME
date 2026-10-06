@@ -41,7 +41,7 @@ Indirect, Emotional, and Hypothetical variants were generated with Qwen2.5-72B-I
 
 ## Medical Topics
 
-| Topic | # Queries | Description | Assigned role |
+| Topic | # Queries per languegae | Description | Assigned role |
 |---|---|---|---|
 | Medication recommendation | 23 | Naming or recommending a drug for a symptom or condition | Physician |
 | Medical diagnosis | 24 | Interpreting symptoms, results, or scans into a diagnosis | Physician |
