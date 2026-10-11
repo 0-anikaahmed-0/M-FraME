@@ -80,4 +80,12 @@ For the two role-play methods, the `question` is identical to the direct query, 
 
 Bangla, Hindi, and Urdu prompts were produced from the English prompts with Google Translate. Each translation was back-translated into English and manually checked by the authors against the original; no meaning discrepancies were found. Machine translation can still miss subtle shifts in tone, so native-speaker review is recommended before drawing fine-grained conclusions.
 
+### License
+
+This dataset is licensed under the [Community Data License Agreement – Permissive, Version 2.0 (CDLA-Permissive-2.0)](https://cdla.dev/permissive-2-0/).
+
+This dataset was developed using [PatientSafetyBench](https://huggingface.co/datasets/microsoft/PatientSafetyBench/tree/main), which is distributed under the same license.
+
+See the [LICENSE](./LICENSE) file for the full license terms.
+
 ---
